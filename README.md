@@ -5,5 +5,12 @@
 # THIS IS TO PRACTICE MERGING
 # New Message
 # Acel Margallo
+<<<<<<< HEAD
 # New Changes 
 # Try lang
+=======
+# Clavecillas
+# New Changes 
+# 123
+
+>>>>>>> origin/Acel
