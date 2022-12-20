@@ -4,9 +4,7 @@
 # THIS IS TO PRACTICE MERGING
 # New Message
 # Acel Margallo
-<<<<<<< HEAD
 # New Changes 
-<<<<<<< HEAD
 # Trisha
 # Bagong Commit
 # Trisha
@@ -14,12 +12,13 @@
 # New ulit
 # New Commit1
 # Clavecillas 
-=======
 # Try lang
-=======
 # Clavecillas
 # New Changes 
 # 123
-
->>>>>>> origin/Acel
->>>>>>> Kate
+#carl
+#10451231
+#afdmsalkfmkawemfklwalkfmekwlafewa
+#KLALEWLALFAEW
+#fawefawe
+#last
